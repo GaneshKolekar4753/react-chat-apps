@@ -12,10 +12,10 @@
 You can view a live demo of the project here: https://ganeshkolekar4753.github.io/react-chat-app
 
 ## User credentials:
-  -User1:-
+  - User1:-
     Email- ganesh@gmail.com
     Password- 1234567
-  -User2:-
+  - User2:-
     Email- shubham@gmail.com
     Password- 123456
 
