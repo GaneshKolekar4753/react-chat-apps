@@ -15,12 +15,12 @@ const firebaseConfig = {
   // storageBucket: "chatting-app-3a348.appspot.com",
   // messagingSenderId: "598357170191",
   // appId: "1:598357170191:web:203c738aa66ef128deeb7a"
-   apiKey: "AIzaSyAN8pG2MSS2ZOcGBifcBqnAvvUZvwDYL-M",
-  authDomain: "chat-db-f0c81.firebaseapp.com",
-  projectId: "chat-db-f0c81",
-  storageBucket: "chat-db-f0c81.appspot.com",
-  messagingSenderId: "1053733030658",
-  appId: "1:1053733030658:web:9c9758372b8d31a1e0d01b"
+  apiKey: "AIzaSyB-U-0RPiH81bEgFG5ZklMaBhqcO91zof0",
+  authDomain: "chat-db-fa224.firebaseapp.com",
+  projectId: "chat-db-fa224",
+  storageBucket: "chat-db-fa224.appspot.com",
+  messagingSenderId: "294837577089",
+  appId: "1:294837577089:web:05370d9b231aa943513480"
 
 
 };
